@@ -1,3 +1,4 @@
+// https://gobyexample.com/variables
 // In Go, Variables are explicitly declared and used by the complier to e.g. check type-correctness of function calls. 
 
 package main 

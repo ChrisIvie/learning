@@ -1,3 +1,4 @@
+// https://gobyexample.com/values
 // Go has various value types including strings, integers, floats, booteans, etc.
 package main 
 

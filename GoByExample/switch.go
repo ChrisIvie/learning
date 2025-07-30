@@ -1,3 +1,4 @@
+// https://gobyexample.com/switch
 // Switch statement express conditionals across many branches.
 
 package main 
