@@ -1,6 +1,8 @@
-# learning
-Repo for learning all of the things!
+# My public repo for learning
+
 
 # GoByExample
-I will be using gobyexample.com!
 https://gobyexample.com/
+
+# Let's Go by Alex Edwards (no book here btw ;) 
+https://lets-go.alexedwards.net/
