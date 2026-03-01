@@ -1,0 +1,12 @@
+# The /etc/passwd file contains a list of all the system user accounts, along with some basic configration information about each user. 
+
+# - My coder account in /etc/passwd: 
+coder:x:1000:1000:,,,:/home/coder:/bin/bash
+  |   |   |    |   |       |          --------> The Users default shell program
+  |   |   |    |   |      -------------> The Users default home dirctory
+  |   |   |    |   -----------------> The Users Full Name
+  |   |   |    -----------> The User's system group number
+  |   |   |
+  |   |   -------> The User's system user ID number
+  |   -------> The User's password File (or a placeholder if the password is stored in another file)
+  ----> Username
